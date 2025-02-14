@@ -79,15 +79,18 @@
 
     <h1>Welcome to Nadjad's World!</h1>
     <p>ممرحبًا بكم في عالم نجاد!
-قناة مليئة بالمتعة والإبداع، حيث الأنميشن المضحك يلتقي مع ألعاب الفيديو والقصص الملحمية! 🌟 هنا، ستجدون:
-🎮 مغامرات غايمينغ مشوقة مع تحديات وألعاب شيقة.
-🎬 أنميشن مبتكر يحكي قصصًا كوميدية ومليئة بالإثارة.
-🛡️ حكايات فارس ملحمية تأخذك لعوالم الخيال والسحر.
-📖 قصصي الشخصية التي ستُضحكك، تُلهمك، وتُبهرك!
 
-اشتركوا الآن وانضموا لعائلة الإبداع والضحك، فالقادم أعظم! 🚀✨
-#نجاد_الخيال_والإبداع</p>
-    
+     <h1>Welcome to Nadjad's World!</h1>
+    <p>
+        Welcome to Nadjad's world!
+        A channel full of fun and creativity, where hilarious animation meets video games and epic stories! 🌟
+        Here, you will find:
+        🎮 Exciting gaming adventures with thrilling challenges and cool games.
+        🎬 Unique animations telling funny and action-packed stories.
+        🛡️ Epic knight tales that take you to worlds of fantasy and magic.
+        📖 Personal stories that will make you laugh, inspire you, and amaze you!
+        Subscribe now and join the creative and fun family – the best is yet to come! 🚀✨
+        #Nadjad_Creativity_And_Imagination
     <div class="button-container">
         <a href="https://www.youtube.com/@NadjadouMed" target="_blank" class="btn">Go to YouTube</a>
         <a href="https://scratch.mit.edu/users/NADJAD242/" target="_blank" class="btn">Go to Scratch</a>
